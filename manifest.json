@@ -1,0 +1,12 @@
+{
+  "name": "tzHelper",
+  "version": "1.0",
+  "description": "QA조교 도우미",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "http://tzone.megastudy.net/"
+  ]
+}
